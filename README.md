@@ -16,4 +16,4 @@
 #See https://wiki.archlinux.org/index.php/PulseAudio/Examples#PulseAudio_through_JACK 
 #
 #nologo aka niels.stjernborg@gmail.com
-# 
+#MD5 d80f5eaa7ee9e23cef97f8ae350ec28d 
